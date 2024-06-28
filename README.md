@@ -6,7 +6,7 @@ See instructions in main.d for how to run and visualise the discrete model.
 ## Simulation for Figure 3, 4, and 12
 Run Model 4 with N=4, m=4, Hookean force in model_inputs.d;
 
-Plot with n=1 coil periods per spring in snapshot.py => snapshot.pdf (Figs 3, 12);
+Plot with n=1 coil periods per spring in snapshot.py => snapshot.pdf (Figs 3);
 ![snapshot](https://github.com/prbuen/Buenzli2024_Mechanical_cell_interactions_on_curved_interfaces/assets/54585460/68581819-59cc-4173-b875-5d30d5133e41)
 
 
