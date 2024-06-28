@@ -1,7 +1,7 @@
 # Mechanical cell interactions on curved interfaces
 Computer code in D used for discrete model simulations and Julia code for continuum model simulations presented in the research article _Mechanical cell interactions on curved interfaces_ by Pascal R Buenzli, Shahak Kuba, Ryan J Murphy, and Matthew J Simpson (2024). Preprint available at: https://arxiv.org/abs/TBA.
 
-See instructions in main.d for how to run and visualise the discrete model.
+See instructions in src/main.d for how to run and visualise the discrete model.
 
 ## Simulations for Figures 3, 4, and 12
 Run Model 4 with N=4, m=4, Hookean force in model_inputs.d;
