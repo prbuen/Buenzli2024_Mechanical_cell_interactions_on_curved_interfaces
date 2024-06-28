@@ -29,7 +29,7 @@ Run Model 0 with N=8, m=1,2,4,or 8, t_end=2, and either hookean_force, lineardif
 
 Run spring-diffusion-continuum.jl after selecting the corresponding force law.
 
-Plot: profiles.py => profiles.pdf (Fig 8) (uses linux command line tools sed, awk, tail, head)
+Plot: profiles.py => profiles.pdf (Fig 8) (uses linux command line tools sed, awk, tail, head to plot with fsteps and periodic BC)
 ![profiles](https://github.com/prbuen/Buenzli2024_Mechanical_cell_interactions_on_curved_interfaces/assets/54585460/4d480cb5-d7c6-4e26-8a97-33bf1e804b7b)
 
 
