@@ -19,11 +19,15 @@
  * => data created in `datadir/*.dat` (filenames are suffixed with time frame number)
  * 
  * Visualisation:
- * Edit snapshot.py or profile.py (e.g. frame=70) and run with gnuplot
+ * Edit snapshot.py, trajectories.py, or profile.py (e.g. to set frame=70) and pipe into gnuplot (alternatively, save python output to file and load in gnuplot)
  *   python snapshot.py | gnuplot
+ * => snapshot.pdf
  * or
- *   python profile.py | gnuplot
- * => frame.pdf
+ *   python trajectories.py | gnuplot
+ * => trajectories.pdf
+ * or
+ *   python profiles.py | gnuplot
+ * => profiles.pdf
  */
 
 module main;
