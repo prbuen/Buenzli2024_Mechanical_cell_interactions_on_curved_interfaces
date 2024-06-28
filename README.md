@@ -20,7 +20,7 @@ Run Model 0 with N=4, m=1, Hookean force, either straight_springs or curved_spri
 Plot with n=4 coil periods per spring in snapshot.py => snapshot.pdf.
 
 ## Simulation for Figures 6 and 7
-Run Model 2 or 2c with N=8, m=1 or m=8, eitherh straight_springs or curved_springs in model_inputs.d;
+Run Model 2 with N=8, m=1 or m=8, or Model 2c with N=7, m=1 or m=8, either straight_springs or curved_springs in model_inputs.d;
 
 Plot m=1 snapshots with n=4 coil periods per spring in snapshot.py => snapshot.pdf
 
