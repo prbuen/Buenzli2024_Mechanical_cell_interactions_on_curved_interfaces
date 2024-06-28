@@ -3,7 +3,7 @@ Computer code in D used for discrete model simulations and Julia code for contin
 
 See instructions in main.d for how to run and visualise the discrete model.
 
-## Simulation for Figure 3, 4, and 12
+## Simulations for Figures 3, 4, and 12
 Run Model 4 with N=4, m=4, Hookean force in model_inputs.d;
 
 Plot with n=1 coil periods per spring in snapshot.py => snapshot.pdf (Figs 3);
