@@ -1,4 +1,4 @@
-# Buenzli2024_Mechanical_cell_interactions_on_curved_interfaces
+# Mechanical cell interactions on curved interfaces
 Computer code in D used for discrete model simulations and Julia code for continuum model simulations presented in the research article _Mechanical cell interactions on curved interfaces_ by Pascal R Buenzli, Shahak Kuba, Ryan J Murphy, and Matthew J Simpson (2024). Preprint available at: https://arxiv.org/abs/TBA.
 
 See instructions in main.d for how to run and visualise the discrete model.
